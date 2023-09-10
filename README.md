@@ -12,3 +12,5 @@
 
 <h3>Tech</h3>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lily7472)](https://solved.ac/lily7472/)
