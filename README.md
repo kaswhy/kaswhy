@@ -1,10 +1,6 @@
-<h3>Intro</h3>
-<h4>Soyeon Kim</h4>
-<h4>Incheon, South Korea</h4>
-<br>
-
-<h3>Education</h3>
-<h4>Computer Science, Inha University</h4>
+### So-yeon Kim
+- Computer Science, Inha Univ
+- Incheon, South Korea
 <hr>
 
 <h3>Hits</h3>
