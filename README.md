@@ -3,7 +3,7 @@
 - Incheon, South Korea
 <hr>
 
-<h3>Interests</h3>
+### Interests
 - System Software
 - Coq
 - Backend
