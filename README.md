@@ -1,5 +1,5 @@
 ### So-yeon Kim
-- Computer Science, Inha Univ
+- Computer Engineering, Inha Univ
 - Incheon, South Korea
 <hr>
 
