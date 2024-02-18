@@ -7,6 +7,7 @@
 - System Software
 - Coq
 - Backend
+- Frontend
 - Open Source Contribution
 
 <h3>Hits</h3>
