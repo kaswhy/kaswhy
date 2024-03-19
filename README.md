@@ -7,8 +7,7 @@
 - System Software
 - Test
 - Coq
-- Backend
-- Frontend
+- Web Programming (Frontend & Backend)
 - Open Source Contribution
 
 <h3>Hits</h3>
