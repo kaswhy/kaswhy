@@ -33,7 +33,7 @@ https://github.com/google/googletest/pull/4435<br/>
 <br/><br/>
 
 ### :writing_hand: My Blog
-<a href="https://velog.io/@kaswhy/posts)" target="_blank">
+<a href="https://velog.io/@kaswhy/posts" target="_blank">
 <img alt="Blog" src ="https://img.shields.io/badge/Blog-20C997.svg?&style=flat-square&logo=velog&logoColor=white"/>
 <br/><br/>
 
