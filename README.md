@@ -30,6 +30,7 @@ https://github.com/google/googletest/pull/4435<br/>
 :pushpin: GDSC INHA 2nd, devRel core member (Mar 2023 - Aug 2023)<br/><br/>
 :pushpin: GDSC INHA 3rd, tech part core member (Sep 2023 - Aug 2024)<br/><br/>
 :pushpin: LikeLion INHA 12nd, server part member (Mar 2024 - now)<br/><br/>
+:pushpin: GDG on Campus Inha, tech part core member (Sep 2024 - now)<br/><br/>
 <br/><br/>
 
 ### :writing_hand: My Blog
