@@ -1,46 +1,32 @@
-<div align="center"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Soyeon%20Kim!&color=0:ff9a9e,100:fecfef&animation=scaleIn"/>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaswhy&count_bg=%23CCC2FF&title_bg=%23FF98CB&icon=&icon_color=%23FFFFFF&title=%28*%CB%8A%E1%B5%95%CB%8B*%29%EF%BE%89&edge_flat=false)](https://hits.seeyoufarm.com)
+### 김소연
 
-### :books: Education
-Computer Engineering, Inha Univ<br/><br/>
-Incheon, South Korea<br/>
-<br/><br/>
+사용하는 기술과 코드에 대해 논리적인 근거를 제시할 수 있도록 노력하는 백엔드 개발자 김소연입니다.
 
-### :computer: Tech skills
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
-<br/><br/><br/>
+---
 
-### :baby_chick: Interests
-Web Programming (Frontend & Backend)<br/><br/>
-Open Source Contribution<br/>
-<br/><br/>
+#### :sparkles: 기술
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>
 
-### :hatching_chick: Contriubutions
+
+<br/>
+
+#### :octocat: 오픈소스 기여
 https://github.com/google/googletest/pull/4435<br/>
 <br/><br/>
 
-### :hatched_chick: Communities
-:pushpin: INBIG, member (Aug 2021 - Dec 2021)<br/><br/>
-:pushpin: GDSC INHA 2nd, member (Aug 2022 - Feb 2023)<br/><br/>
-:pushpin: GDSC INHA 2nd, devRel core member (Mar 2023 - Aug 2023)<br/><br/>
-:pushpin: GDSC INHA 3rd, tech part core member (Sep 2023 - Aug 2024)<br/><br/>
-:pushpin: LikeLion INHA 12nd, server part member (Mar 2024 - now)<br/><br/>
-:pushpin: GDG on Campus Inha, tech part core member (Sep 2024 - now)<br/><br/>
-<br/><br/>
+#### :earth_asia: 커뮤니티 활동
+- `GDGoC INHA(GDSC INHA)` | 2022.09 ~ 현재 | Tech팀 팀장(백엔드 개발)
+- `멋쟁이사자처럼 인하대학교 12기` | 2024.03 ~ 2024.12 | 백엔드 개발
+- `INBIG` | 2021.09 ~ 2021.12 | 파이썬 데이터 분석
 
-### :writing_hand: My Blog
-<a href="https://velog.io/@kaswhy/posts" target="_blank">
-<img alt="Blog" src ="https://img.shields.io/badge/Blog-20C997.svg?&style=flat-square&logo=velog&logoColor=white"/>
-<br/><br/>
-
-### :running_woman: My Stats
-![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaswhy&show_icons=true&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lily7472)](https://solved.ac/lily7472/)
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=0:ff9a9e,100:fecfef"/>
+#### :writing_hand: 블로그
+<a href="https://velog.io/@kaswhy/posts" target="_blank">
+<img alt="Blog" src ="https://img.shields.io/badge/Blog-20C997.svg?&style=flat-square&logo=velog&logoColor=white"/>
+<br/><br/><br/><br/>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaswhy&count_bg=%23CCC2FF&title_bg=%23FF98CB&icon=&icon_color=%23FFFFFF&title=%28*%CB%8A%E1%B5%95%CB%8B*%29%EF%BE%89&edge_flat=false)](https://hits.seeyoufarm.com)
