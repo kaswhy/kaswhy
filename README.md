@@ -29,4 +29,4 @@ https://github.com/google/googletest/pull/4435<br/>
 <br/><br/><br/><br/>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaswhy&count_bg=%23CCC2FF&title_bg=%23FF98CB&icon=&icon_color=%23FFFFFF&title=%28*%CB%8A%E1%B5%95%CB%8B*%29%EF%BE%89&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaswhy&count_bg=%23009efd&title_bg=%232af598&icon=&icon_color=%23FFFFFF&title=%28*%CB%8A%E1%B5%95%CB%8B*%29%EF%BE%89&edge_flat=false)](https://hits.seeyoufarm.com)
