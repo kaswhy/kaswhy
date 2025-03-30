@@ -27,7 +27,3 @@ https://github.com/google/googletest/pull/4435<br/>
 #### :writing_hand: 블로그
 <a href="https://velog.io/@kaswhy/posts" target="_blank">
 <img alt="Blog" src ="https://img.shields.io/badge/Blog-20C997.svg?&style=flat-square&logo=velog&logoColor=white"/>
-<br/><br/><br/><br/>
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaswhy&count_bg=%23009efd&title_bg=%232af598&icon=&icon_color=%23FFFFFF&title=%28*%CB%8A%E1%B5%95%CB%8B*%29%EF%BE%89&edge_flat=false)](https://hits.seeyoufarm.com)
