@@ -17,6 +17,7 @@ https://github.com/google/googletest/pull/4435<br/>
 <br/><br/>
 
 #### :earth_asia: 커뮤니티 활동
+- `SOPT` | 2025.03 ~ 현재 | 36기 YB Server 파트원
 - `GDGoC INHA(GDSC INHA)` | 2022.09 ~ 현재 | Tech팀 팀장(백엔드 개발), (DevRel 2023.03~2023.07)
 - `멋쟁이사자처럼 인하대학교 12기` | 2024.03 ~ 2024.12 | 백엔드 개발
 - `INBIG` | 2021.09 ~ 2021.12 | 파이썬 데이터 분석
